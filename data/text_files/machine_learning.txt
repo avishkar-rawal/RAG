@@ -1,0 +1,3 @@
+ Machine Learning Overview
+    Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data. It involves training a model on a dataset, allowing it to identify patterns and relationships within the data, and then using that trained model to make predictions or classifications on new, unseen data. Machine learning is widely used in various applications, including image and speech recognition, natural language processing, recommendation systems, and autonomous vehicles.
+    
