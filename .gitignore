@@ -10,4 +10,4 @@ wheels/
 .venv
 *.pyc
 .ipynb_checkpoints/
-
+.env
