@@ -1,0 +1,6 @@
+question,hit,mrr,precision,keyword_coverage,faithfulness,answer_relevancy,answer_similarity
+What is the attention mechanism?,1.0,1.0,0.6,1.0,1.0,1.0,0.8891839385032654
+What is a convolutional neural network?,1.0,1.0,0.8,1.0,1.0,0.6,0.8639563322067261
+What is SadakVision?,0.0,0.0,0.0,0.6666666666666666,1.0,1.0,0.7584835886955261
+How much compute does SadakVision save compared to vision-only?,1.0,1.0,0.5,1.0,1.0,1.0,0.7333787679672241
+What did the randomized controlled trial find about teaching children to read in India?,1.0,1.0,1.0,1.0,0.0,1.0,0.7762511968612671
